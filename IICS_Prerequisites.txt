@@ -1,0 +1,40 @@
+Pre-requisites for IICS training
+----------------------------------
+
+1.Register in the Informatica Website to download the Secure_agent(30 days trial version).
+
+  https://www.informatica.com/trials/cloud-data-integration.html
+
+[Confirm Account using Email received in the registered Email account.
+ Login using https://dm-us.informaticacloud.com/identity-service/home] -> North America region url
+
+2.Access to Services to start/stop the agent. 
+
+3.Register in the Salesforce platform
+
+   https://developer.salesforce.com/signup
+
+4.Install Postgresql.
+
+5.Install Postman app in system to work with REST API
+ 
+ https://www.postman.com/downloads/
+
+========================================================================================================
+
+
+Get approval from Manager for doing the installations
+
+1.IICS Secure Agent download and installation
+2.Enable start/stop services
+3.Postgresql and 
+4.Postman
+
+
+
+
+
+
+
+
+
